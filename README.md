@@ -1,7 +1,7 @@
 # ip_DNAFighter2000
 A game made for a STEM presentation to elementary school students to show the power of technology and how it can connect with STEM fields in a fun and educational way.
 
-CONTROLS:
+**CONTROLS:**
 
 'L' - Enable Music
 
@@ -12,7 +12,7 @@ CONTROLS:
 'P' - Switch between AT/CG pairs
 
 
-SONG: Bit Rush by League of Legends (Riot Games)
+**SONG:** Bit Rush by League of Legends (Riot Games)
 
 Game created in GM: Studio
 Included Files:
