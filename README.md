@@ -7,7 +7,7 @@ A game made for a STEM presentation to elementary school students to show the po
 
 #### SCREENSHOTS
 
-![Sample Images](https://imgur.com/f15b38d8-58ef-4b21-b5e5-c28c1f03b25a)
+![Sample Images](https://i.imgur.com/H5NJmJt.png)
 
 #### CONTROLS:
 
