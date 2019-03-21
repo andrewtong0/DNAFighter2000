@@ -1,4 +1,4 @@
-# ip_DNAFighter2000
+# DNA Fighter 2000
 A game made for a STEM presentation to elementary school students to show the power of technology and how it can connect with STEM fields in a fun and educational way.
 
 **CONTROLS:**
