@@ -1,6 +1,6 @@
 # DNA Fighter 2000
 [PLAY HERE (HTML5 Version)](http://andrewtong.me/DNAFighter2000WebApp/)
-WARNING: Sound may be a bit loud at start, so turning down your volume is advised! There may also be bugs due to porting from .exe to HTML5.
+WARNING: Sound is very load at start, so turning down your volume is advised! There may also be bugs due to porting from .exe to HTML5.
 
 A game made for a STEM presentation to elementary school students to show the power of technology and how it can connect with STEM fields in a fun and educational way.
 
